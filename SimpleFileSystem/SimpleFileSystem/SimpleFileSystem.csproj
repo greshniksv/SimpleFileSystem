@@ -40,6 +40,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="FSStream.cs" />
     <Compile Include="Nodes\BaseNode.cs" />
     <Compile Include="Nodes\DirectoryNode.cs" />
     <Compile Include="Nodes\FileNode.cs" />
